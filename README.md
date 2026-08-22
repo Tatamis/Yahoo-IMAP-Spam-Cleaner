@@ -153,7 +153,7 @@ For example, the script can safely cycle the IMAP connection after a configured 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/Bulletproof-IMAP-Spam-Filter.git
+git clone https://github.com/Tatamis/Yahoo-IMAP-Spam-Cleaner.git
 cd Bulletproof-IMAP-Spam-Filter
 ```
 
